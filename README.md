@@ -1,4 +1,4 @@
-//# hello-world
+# hello-world
 //test repository
 #include<stdio.h>
 int main() {
